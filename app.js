@@ -9,3 +9,7 @@ function multiply(a, b) {
 function div(a, b) {
     console.log(a / b)
 }
+
+function sub(a, b) {
+    console.log(a - b)
+}
