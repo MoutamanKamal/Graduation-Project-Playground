@@ -5,3 +5,7 @@ function sum(a, b) {
 function multiply(a, b) {
     console.log(a * b)
 }
+
+function div(a, b) {
+    console.log(a / b)
+}
