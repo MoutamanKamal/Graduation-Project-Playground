@@ -1,0 +1,11 @@
+{
+  "name": "graduation-project-playground",
+  "version": "1.0.0",
+  "description": "The Graduation project is a continuous integration app. So this is a playground to test it on.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moutaman Kamal",
+  "license": "ISC"
+}
