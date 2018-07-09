@@ -13,3 +13,7 @@ function div(a, b) {
 function sub(a, b) {
     console.log(a - b)
 }
+
+function print() {
+    console.log('Test')
+}
