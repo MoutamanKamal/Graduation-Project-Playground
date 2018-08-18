@@ -15,5 +15,5 @@ function sub(a, b) {
 }
 
 function print() {
-    console.log('Testing the events again, again.')
+    console.log('Testing the events again, again, again.')
 }
